@@ -12,8 +12,8 @@ Criação de conta de usuário e compra de um produto no ecommerce https://magen
   - Fazer o pagamento do produto na tela 'Payment Method'
   - Finalizar na tela de 'Thank you for your purchase!'
   
-  Obs.: Nesse arquivo nao esta a pasta 'node_modules.
-  Para isso basta no terminal do seu vs code digitar 'npm i node-modules' / 'npm install node-modules'
+  Obs.: Nesse arquivo não esta a pasta 'node_modules.
+  No terminal do seu vs code você deve digitar, 'npm i node-modules' / 'npm install node-modules'
   
   
   Pra quem for iniciar o projeto do zero precisa fazer as seguintes instalações:  
